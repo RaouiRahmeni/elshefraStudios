@@ -6,8 +6,8 @@ import { ThemeProvider } from "./provider";
 const manrope = Manrope({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Codina Official website",
-  description: "coding the visions",
+  title: "elShefra",
+  description: "Web development agency",
 };
 
 export default function RootLayout({
